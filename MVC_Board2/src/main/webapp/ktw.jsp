@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>ktw 이 만든a jsp 페이지</h1>
+	<h1>ktw 이 만든a jspasd 페이지</h1>
 </body>
 </html>
