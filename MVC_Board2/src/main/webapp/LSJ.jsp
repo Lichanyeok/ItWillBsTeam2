@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	<h1>LSJ 만든 JSP page</h1>
 </body>
 </html>
