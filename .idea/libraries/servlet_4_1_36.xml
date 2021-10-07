@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="servlet-4.1.36">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/tomcat/servlet/4.1.36/servlet-4.1.36.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
