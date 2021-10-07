@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ItWillBsTeam2:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ItWillBsTeam2_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ItWillBsTeam2" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="project" name="cdi-api-1.1" />
+          <element id="library" level="project" name="cos" />
+          <element id="library" level="project" name="mysql-connector-java-5.1.49" />
+          <element id="library" level="project" name="mysql-connector-java-5.1" />
+          <element id="library" level="project" name="mysql-connector-java-5.1.49-bin" />
+          <element id="library" level="project" name="tomcat-jdbc" />
+          <element id="library" level="project" name="servlet-4.1.36" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="ItWillBsTeam2/web/웹" />
+      <element id="javaee-facet-resources" facet="ItWillBsTeam2/web/웹2" />
+    </root>
+  </artifact>
+</component>
